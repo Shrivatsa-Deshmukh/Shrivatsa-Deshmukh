@@ -18,6 +18,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2105.deshmukh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrivatsa-deshmukh)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=qFsRG9cAAAAJ&hl=en&oi=ao)
+[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Resume.pdf)
 
 </div>
 
@@ -55,9 +56,7 @@ AI  ─────────────────────────�
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
 ---
-
 
 <div align="center">
 
