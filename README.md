@@ -1,19 +1,10 @@
 <div align="center">
 
-```
-███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗ ███████╗ ██████╗██╗
-████╗  ██║██╔════╝██║   ██║██╔══██╗██╔═══██╗██╔════╝██╔════╝██║
-██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║   ██║███████╗██║     ██║
-██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║   ██║╚════██║██║     ██║
-██║ ╚████║███████╗╚██████╔╝██║  ██║╚██████╔╝███████║╚██████╗██║
-╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝
-```
-
 # Shrivatsa Deshmukh
 
-**Machine Learning Researcher · NeuroAI · Brain-Inspired AI**
+**Computational Neuroscience Researcher · Physicist & Engineer · Understanding Intelligence**
 
-*Building bridges between neuroscience and artificial intelligence*
+*From neural circuits to AI systems*
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2105.deshmukh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrivatsa-deshmukh)
@@ -24,52 +15,29 @@
 
 ---
 
-## ⚡ What I Do
+I trained as an engineer and a physicist — one taught me to build, the other taught me to model. Both kept pointing me toward the same question: *how does a complex system produce intelligent behavior?*
 
-I operate at the intersection of **neuroscience** and **artificial intelligence** — using each field to advance the other.
+That question pulled me through biomechanics and medical robotics, and eventually to the thing I couldn't stop thinking about — the brain.
 
-```
-NEUROSCIENCE  ──────────────────────────────────────►  AI
-  inspires brain-inspired architectures & principles
+**What I work on:**
 
-AI  ─────────────────────────────────────────────────►  NEUROSCIENCE
-  accelerates analysis, modeling & discovery
-```
+→ Neural data analysis & computational modeling across scales — single neurons to whole-brain dynamics
 
-## 🛠️ Tech Stack
+→ Statistical and Bayesian tools to decode how the brain encodes, adapts, and breaks down
 
-**Neuro & Computational**
+→ Neurological and psychiatric disorders through a rigorous computational lens
 
-![EEG](https://img.shields.io/badge/EEG%2FfMRI_Analysis-2D3748?style=flat-square)
-![MNE](https://img.shields.io/badge/MNE--Python-2D3748?style=flat-square)
-![Calcium Imaging](https://img.shields.io/badge/Calcium_Imaging-2D3748?style=flat-square)
-![SNPE](https://img.shields.io/badge/Simulation--Based_Inference_(SNPE)-2D3748?style=flat-square)
-![GLMMs](https://img.shields.io/badge/GLMMs-2D3748?style=flat-square)
+**Where I'm headed:**
 
-**Programming & ML**
+→ Building depth in computational neuroscience
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux%2FBash-FCC624?style=flat-square&logo=linux&logoColor=black)
+→ NeuroAI eventually — because the path there runs through actually understanding the brain, not just borrowing its metaphors
+
 
 ---
 
 <div align="center">
 
-### The ultimate goal
-
-*Better models of the brain → better health outcomes.*
-*Better AI → new technological frontiers.*
-*A powerful synergy — in both directions.*
-
----
-
-**Let's connect and build something meaningful.**
-
-`Machine Learning` · `NeuroAI` · `Neurological Data Analysis` · `Computational Cognitive Neuroscience` · `Brain-Inspired AI`
+*Always open to research collaborations and people working at the neuroscience-AI boundary.*
 
 </div>
