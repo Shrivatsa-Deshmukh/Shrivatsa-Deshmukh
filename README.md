@@ -15,13 +15,13 @@
 
 ---
 
-I trained as an engineer and a physicist — one taught me to build, the other taught me to model. Both kept pointing me toward the same question: *how does a complex system produce intelligent behavior?*
+I trained as an engineer and a physicist - one taught me to build, the other taught me to model. Both kept pointing me toward the same question: *how does a complex system produce intelligent behavior?*
 
-That question pulled me through biomechanics and medical robotics, and eventually to the thing I couldn't stop thinking about — the brain.
+That question pulled me through biomechanics and medical robotics, and eventually to the thing I couldn't stop thinking about - the brain.
 
 **What I work on:**
 
-→ Neural data analysis & computational modeling across scales — single neurons to whole-brain dynamics
+→ Neural data analysis & computational modeling across scales - single neurons to whole-brain dynamics
 
 → Statistical and Bayesian tools to decode how the brain encodes, adapts, and breaks down
 
@@ -31,7 +31,7 @@ That question pulled me through biomechanics and medical robotics, and eventuall
 
 → Building depth in computational neuroscience
 
-→ NeuroAI eventually — because the path there runs through actually understanding the brain, not just borrowing its metaphors
+→ NeuroAI eventually - because the path there runs through actually understanding the brain, not just borrowing its metaphors
 
 
 ---
