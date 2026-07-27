@@ -13,7 +13,7 @@
 
 ---
 
-Computational neuroscientist, background in robotics and physics.
+Computational Neuroscience / NeuroAI Researcher, background in robotics and physics.
 
 I work across neural data modalities and scales, from single neurons to whole-brain systems, applying Bayesian inference and statistical modeling to understand how neural systems encode information, adapt, and break down in disease.
 
