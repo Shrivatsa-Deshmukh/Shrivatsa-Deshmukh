@@ -9,10 +9,10 @@
 
 </div>
 
-Computational Neuroscience / NeuroAI Researcher; background in robotics and physics.
+Computational neuroscience and NeuroAI researcher with a background in robotics and physics. 
 
-I work across neural data modalities and scales, from single neurons to whole-brain systems, applying Bayesian inference, statistical modeling and deep learning to understand how neural systems encode information, adapt, and break down in disease.
-
+Builds and tests models of neural data from single neurons to whole-brain EEG, with a focus on interpretability and reliable inference: what models learn, and whether their explanations can be trusted.
+ 
 Open to research collaboration, academic or industry, at the computational neuroscience and NeuroAI interface.
 
 
