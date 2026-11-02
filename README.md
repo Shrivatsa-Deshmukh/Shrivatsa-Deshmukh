@@ -9,7 +9,7 @@
 
 </div>
 
-Computational neuroscience and NeuroAI researcher with a background in robotics and physics. 
+Computational neuroscience and NeuroAI researcher with a background in physics. 
 
 Builds and tests models of neural data from single neurons to whole-brain EEG, with a focus on interpretability and reliable inference: what models learn, and whether their explanations can be trusted.
  
